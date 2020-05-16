@@ -3,13 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+I'am **Yongchao Huang**. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My F3's nickname is **SPIKE**. 
+
+My favourite sport is **volleyball**. 
+
+I like go to *hiking* and any outdoor activeties, but I also enjoy *working from home* right now.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:yhuang72@ncsu.edu)
