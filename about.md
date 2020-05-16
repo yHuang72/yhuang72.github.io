@@ -17,4 +17,4 @@ I like go to *hiking* and any outdoor activeties, but I also enjoy *working from
 
 ### Contact me
 
-[email@domain.com](mailto:yhuang72@ncsu.edu)
+[yhuang72@ncsu.edu](mailto:yhuang72@ncsu.edu)
