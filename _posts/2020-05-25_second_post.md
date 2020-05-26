@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Become a data data scientist!
+title: R VS SAS
 ---
 I have 4 years SAS work experience. SAS EG is my main tools.
 What are your thoughts on R vs whatever other software you've used?  
