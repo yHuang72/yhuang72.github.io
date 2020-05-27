@@ -6,7 +6,7 @@ title: R VS SAS
 
 **What are your thoughts on R vs whatever other software you've used?**  
 I think R language is more flexible. The command with stain(%<%) is my fervor one. It let the grogram or queries looks neat and logic.
-R function is my another fervor part. In SAS, there are many products. You only using it. It is easy to call. Sometime you will feel less creativities.(SAS has command like function. But I have not use it yet.) By the way R packages are wonderful. There are many packages on the website.
+R function is my another fervor part. In SAS, there are many products. You only using it. It is easy to call. Sometime you felt less creativities.(SAS has command like function. But I have not use it yet.) By the way R packages are wonderful. There are many packages on the website.
 
 **What functionality do you like about R?** 
 I like R functions(). It is very good to create a special tool or package to handle the special tasks.
