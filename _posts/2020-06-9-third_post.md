@@ -1,4 +1,3 @@
-
 ---
 layout: post  
 title: NHL API - Wins/Losses rate analysis 
