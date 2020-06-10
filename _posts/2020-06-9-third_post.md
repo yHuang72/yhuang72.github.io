@@ -1,7 +1,7 @@
 
 ---
 layout: post  
-title: NHL API : Wins/Losses rate analysis 
+title: NHL API - Wins/Losses rate analysis 
 ---
 
 ## about my project.
