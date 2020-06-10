@@ -1,8 +1,9 @@
 
 ---
-layout: post
-title: My Project NHL API Json.
+layout: post  
+title: NHL API : Wins/Losses rate analysis 
 ---
+
 ## about my project.
 
 **This is the first time, I use API data to analysis the hockey sport. API is a very interesting Json data. There are lot free resource can be sue. Use Json package I require and converse 4 data frame. It is about NHL franchise information. It is a cool project. This project is home work of NC state university ST558.I highly recommend you take this course when you think we want take a ticket in data sciences area.** 
