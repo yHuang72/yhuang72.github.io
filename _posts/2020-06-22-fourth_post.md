@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: 558 ourse feedback
+title: 558 Course feedback
 ---
 
 ## How is the course going so far?
