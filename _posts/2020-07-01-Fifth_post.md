@@ -3,8 +3,6 @@ layout: post
 title: Online News Analysis: linear or nonlinear model? 
 ---
 
-
-
 ## About my project.
 
 **This is a new project that using onlineNews data set to exame linear and nonlinear model. After using both way to fix the model, we try to using automatioc output to create 7 report.
