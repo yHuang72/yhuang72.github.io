@@ -19,11 +19,6 @@ Please click the link to find my project.**
 ## what did I get from this project?
 
 **I learn many skill in this project. The first is the automatic to output the report. It is funny because it will save a lot time. Also it let me think of how to create a fixable report to different  user. It is great. And I also review many things that learn in this class. 
-Happy Independent Holiday.
-**
+Happy Independent Holiday.**
 
 
-
-
-
-https://github.com/yHuang72/online
