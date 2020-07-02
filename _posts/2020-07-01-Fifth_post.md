@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Online News Analysis: linear or nonlinear model? 
+title: Online News Analysis linear or nonlinear model? 
 ---
 
 ## About my project.
